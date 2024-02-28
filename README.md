@@ -35,8 +35,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/mayur858/mayur858/output/snake.svg" alt="Snake animation" />
-
-###
