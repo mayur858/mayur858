@@ -3,21 +3,20 @@
 ###
 
 <div align="center">
-  
+  <!-- GitHub Stats -->
   <a href="https://github.com/mayur858">
-    <img src="https://raw.githubusercontent.com/mayur858/github-stats/master/generated/overview.svg" height="180" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mayur858&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="180" alt="GitHub Stats" />
   </a>
-
+  <!-- Most Used Languages -->
   <a href="https://github.com/mayur858">
-    <img src="https://raw.githubusercontent.com/mayur858/github-stats/master/generated/languages.svg" height="180" alt="Top Languages" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mayur858&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="180" alt="Top Languages" />
   </a>
   <br />
-
+  <!-- GitHub Streak -->
   <a href="https://github.com/mayur858">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayur858&theme=dracula&hide_border=false" height="180" alt="GitHub Streak" />
   </a>
 </div>
-
 
 ###
 
