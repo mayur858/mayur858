@@ -18,9 +18,12 @@ jobs:
           echo "Current Streak: $(cat streak.txt)"
 
       - name: Commit and Push Changes
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}  # Use your secret token
         run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "actions@github.com"
+          git config --global user.name "mayur858"
+          git config --global user.email "kmayur819@gmail.com"
+          git remote set-url origin https://mayur858:${GH_TOKEN}@github.com/mayur858/mayur858.git
           git add streak.txt
-          git commit -m "Update GitHub Streak" || echo "No changes to commit"
-          git push
+          git commit -m "Update GitHub Streak" || exit 0  # Avoid failure if no changes
+          git push origin main
