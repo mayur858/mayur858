@@ -13,11 +13,11 @@
   </a>
   <br />
 <div align="center">
-  <!-- GitHub Streak -->
   <a href="https://github.com/mayur858">
-    <img src="https://streak-stats.demolab.com/?user=mayur858&theme=dracula&hide_border=false" height="180" alt="GitHub Streak" />
+    <img src="https://raw.githubusercontent.com/mayur858/mayur858/main/streak.txt" alt="GitHub Streak" />
   </a>
 </div>
+
 
 
 ###
