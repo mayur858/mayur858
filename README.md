@@ -13,11 +13,12 @@
   </a>
   <br />
 <div align="center">
-  <!-- GitHub Streak (Using Shields.io) -->
+  <!-- GitHub Streak -->
   <a href="https://github.com/mayur858">
-    <img src="https://img.shields.io/badge/dynamic/json?color=blueviolet&label=GitHub%20Streak&query=%24.streak&url=https%3A%2F%2Fgithub-readme-streaks.vercel.app%2Fapi%3Fuser%3Dmayur858" height="180" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=mayur858&theme=dracula&hide_border=false" height="180" alt="GitHub Streak" />
   </a>
-</div
+</div>
+
 
 ###
 
