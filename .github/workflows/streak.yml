@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GH_PAT }}  # Use your personal token instead of the default one
 
       - name: Fetch Contribution Streak
         run: |
@@ -23,7 +25,6 @@ jobs:
         run: |
           git config --global user.name "mayur858"
           git config --global user.email "kmayur819@gmail.com"
-          git remote set-url origin https://mayur858:${GH_TOKEN}@github.com/mayur858/README.md
           git add streak.txt
           git commit -m "Update GitHub Streak" || exit 0  # Avoid failure if no changes
-          git push origin main
+          git push https://mayur858:${GH_TOKEN}@github.com/mayur858/mayur858.git main
