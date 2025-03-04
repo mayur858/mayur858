@@ -12,7 +12,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GH_PAT }}  # Use your personal token instead of the default one
+          token: ${{ secrets.GH_PAT }}  # Use your personal access token
 
       - name: Fetch Contribution Streak
         run: |
@@ -21,10 +21,10 @@ jobs:
 
       - name: Commit and Push Changes
         env:
-          GH_TOKEN: ${{ secrets.GH_PAT }}  # Use your secret token
+          GH_TOKEN: ${{ secrets.GH_PAT }}  # Use personal token for authentication
         run: |
           git config --global user.name "mayur858"
           git config --global user.email "kmayur819@gmail.com"
           git add streak.txt
           git commit -m "Update GitHub Streak" || exit 0  # Avoid failure if no changes
-          git push https://mayur858:${GH_TOKEN}@github.com/mayur858/mayur858.git main
+          git push origin main
