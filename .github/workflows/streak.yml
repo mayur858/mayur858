@@ -23,7 +23,7 @@ jobs:
         run: |
           git config --global user.name "mayur858"
           git config --global user.email "kmayur819@gmail.com"
-          git remote set-url origin https://mayur858:${GH_TOKEN}@github.com/mayur858/mayur858.git
+          git remote set-url origin https://mayur858:${GH_TOKEN}@github.com/mayur858/README.md
           git add streak.txt
           git commit -m "Update GitHub Streak" || exit 0  # Avoid failure if no changes
           git push origin main
