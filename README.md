@@ -13,12 +13,12 @@
   </a>
   <br />
 <p align="center">
-  🔥 Current GitHub Streak: <strong>
-  <a href="https://github.com/mayur858/mayur858/blob/main/streak.txt">
-    <img src="https://raw.githubusercontent.com/mayur858/mayur858/main/streak.txt" alt="GitHub Streak Count" />
+  🔥 Current GitHub Streak: 
+  <a href="https://raw.githubusercontent.com/mayur858/mayur858/main/streak.txt" target="_blank">
+    View Streak Count
   </a>
-  </strong>
 </p>
+
 
 
 
