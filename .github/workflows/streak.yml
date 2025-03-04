@@ -9,6 +9,7 @@ jobs:
   update-streak:
     runs-on: ubuntu-latest
     steps:
+    
       - name: Checkout Repository
         uses: actions/checkout@v3
         with:
@@ -28,3 +29,9 @@ jobs:
           git add streak.txt
           git commit -m "Update GitHub Streak" || exit 0  # Avoid failure if no changes
           git push origin main
+      - name: Debug GitHub Authentication
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          git remote -v
+          git push origin main --verbose
