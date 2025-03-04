@@ -8,12 +8,14 @@ on:
 jobs:
   update-streak:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 🔥 Allows the workflow to push changes
+
     steps:
-    
       - name: Checkout Repository
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GH_PAT }}  # Use your personal access token
+          token: ${{ secrets.GH_PAT }}  # 🔥 Ensure GH_PAT is set in GitHub Secrets
 
       - name: Fetch Contribution Streak
         run: |
@@ -22,16 +24,10 @@ jobs:
 
       - name: Commit and Push Changes
         env:
-          GH_TOKEN: ${{ secrets.GH_PAT }}  # Use personal token for authentication
+          GH_TOKEN: ${{ secrets.GH_PAT }}
         run: |
           git config --global user.name "mayur858"
           git config --global user.email "kmayur819@gmail.com"
           git add streak.txt
-          git commit -m "Update GitHub Streak" || exit 0  # Avoid failure if no changes
+          git commit -m "Update GitHub Streak" || exit 0  # 🔥 Prevents failure if no changes
           git push origin main
-      - name: Debug GitHub Authentication
-        env:
-          GH_TOKEN: ${{ secrets.GH_PAT }}
-        run: |
-          git remote -v
-          git push origin main --verbose
