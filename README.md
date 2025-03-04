@@ -12,11 +12,14 @@
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mayur858&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="180" alt="Top Languages" />
   </a>
   <br />
-<div align="center">
-  <a href="https://github.com/mayur858">
-    <img src="https://raw.githubusercontent.com/mayur858/mayur858/main/streak.txt" alt="GitHub Streak" />
+<p align="center">
+  🔥 Current GitHub Streak: <strong>
+  <a href="https://github.com/mayur858/mayur858/blob/main/streak.txt">
+    <img src="https://raw.githubusercontent.com/mayur858/mayur858/main/streak.txt" alt="GitHub Streak Count" />
   </a>
-</div>
+  </strong>
+</p>
+
 
 
 
