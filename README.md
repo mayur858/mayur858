@@ -14,7 +14,7 @@
   <br />
 <div align="center">
  <!-- GitHub Activity Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayur858&" alt="Mayur's GitHub Streak" width="48%" height="200" style="object-fit: cover;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayur858&&theme=dracula&hide_border=false" alt="Mayur's GitHub Streak" width="48%" height="200" style="object-fit: cover;"/>
 </div>
 
 
