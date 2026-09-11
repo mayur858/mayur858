@@ -1,20 +1,14 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Mayur+Kumar+Garchar+👋;Full-Stack+Engineer+%7C+Mobile+Architect;Flutter+%7C+Next.js+%7C+Node.js+%7C+PostgreSQL;ML+Explorer+%7C+Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=650&lines=Hi+there%21+I%27m+Mayur+Kumar+Garchar+%F0%9F%91%8B;Full-Stack+Engineer+%7C+Mobile+Architect;Flutter+%7C+Next.js+%7C+Node.js+%7C+PostgreSQL;ML+Explorer+%7C+Open+Source+Contributor" alt="Typing SVG" />
 
   <p align="center">
     <strong>Crafting scalable web applications, cross-platform mobile experiences, and data-driven systems.</strong>
   </p>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/mayur-kumar-garchar/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:kmayur819@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-    <a href="https://github.com/mayur858" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
+    <a href="https://www.linkedin.com/in/mayur-kumar-garchar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:kmayur819@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+    <a href="https://github.com/mayur858" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 </div>
 
@@ -114,15 +108,9 @@ I am a **Full-Stack & Mobile Engineer** focused on building clean, scalable, and
 ### 🤝 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mayur-kumar-garchar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="36" alt="LinkedIn" />
-  </a>
+  <a href="https://www.linkedin.com/in/mayur-kumar-garchar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="36" alt="LinkedIn" /></a>
   &nbsp;&nbsp;
-  <a href="mailto:kmayur819@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="36" alt="Gmail" />
-  </a>
+  <a href="mailto:kmayur819@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="36" alt="Gmail" /></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/mayur858" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="36" alt="GitHub" />
-  </a>
+  <a href="https://github.com/mayur858" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="36" alt="GitHub" /></a>
 </div>
