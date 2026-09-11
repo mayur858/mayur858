@@ -1,40 +1,128 @@
-<h2 align="center">🚀 Passionate Programmer | Full-Stack Developer | Data Enthusiast | Machine Learning Explorer🌐<br><br>Hey there! 👋 I'm Mayur, a dynamic programmer with a love for all things tech. My journey spans across web development, data analysis, and the intriguing world of machine learning. 💻<br><br>Skills Snapshot:<br>- 🌐 Proficient in multiple languages.<br>- 🛠️ Experienced in crafting robust and scalable web applications.<br>- 📊 Enthusiastic about diving into data, unraveling insights, and making informed decisions.<br><br>Open-Source Contributor 🚀:<br>I believe in the power of collaboration! You can find me contributing to open-source projects, where I enjoy sharing knowledge and learning from the vibrant developer community.<br><br>Always Learning 📚:<br>The tech world never stands still, and neither do I. I'm on a perpetual learning journey, exploring new technologies, and staying ahead of the curve.<br><br>Let's Connect! 🌟:<br>I'm always open to connecting with fellow developers, tech enthusiasts, and anyone passionate about leveraging technology for positive change. Let's collaborate and create something amazing together! 🤝</h2>
-
-###
-
 <div align="center">
-  <!-- GitHub Stats -->
-  <a href="https://github.com/mayur858">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mayur858&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="180" alt="GitHub Stats" />
-  </a>
-  <!-- Most Used Languages -->
-  <a href="https://github.com/mayur858">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mayur858&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="180" alt="Top Languages" />
-  </a>
-  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Mayur+Kumar+Garchar+👋;Full-Stack+Engineer+%7C+Mobile+Architect;Flutter+%7C+Next.js+%7C+Node.js+%7C+PostgreSQL;ML+Explorer+%7C+Open+Source+Contributor" alt="Typing SVG" />
 
- <!-- GitHub Activity Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayur858&&theme=dracula&hide_border=false" alt="Mayur's GitHub Streak" width="48%" height="200" style="object-fit: cover;"/>
+  <p align="center">
+    <strong>Crafting scalable web applications, cross-platform mobile experiences, and data-driven systems.</strong>
+  </p>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/mayur-kumar-garchar/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:kmayur819@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://github.com/mayur858" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
 </div>
 
+---
 
+### 👨‍💻 About Me
 
+I am a **Full-Stack & Mobile Engineer** focused on building clean, scalable, and resilient software solutions. My experience covers full-stack web platforms, cross-platform mobile apps, reporting automation, and machine learning.
 
+- 📱 **Mobile Development**: Crafting production-ready, performant cross-platform applications in **Flutter** with smooth state management and native device integrations.
+- 🌐 **Full-Stack Engineering**: Developing responsive frontend interfaces with **Next.js & React**, backed by robust **Node.js / Express** APIs, **Prisma ORM**, and **PostgreSQL**.
+- 📄 **Document & Data Automation**: Designing dynamic document generation engines and automated reporting pipelines with precision pagination and layout logic.
+- 🧠 **Machine Learning & Systems**: Exploring neural network architectures from scratch (in Dart/C++), deep learning models with **TensorFlow**, and actively contributing to the open-source community.
 
+---
 
-###
+### 🛠️ Tech Stack & Skills
 
+<table>
+  <tr>
+    <td width="25%"><strong>Mobile Development</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+      <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frontend & Web</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Backend & Database</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma ORM" />
+      <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=rest&logoColor=white" alt="REST APIs" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>AI & Systems</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/Neural_Networks-FFD43B?style=flat-square&logo=scikit-learn&logoColor=black" alt="Neural Networks" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Tools & DevOps</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+    </td>
+  </tr>
+</table>
 
-###
+---
+
+### 📈 GitHub Analytics & Activity
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="kmayur819@gamil.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <table border="0">
+    <tr>
+      <td>
+        <a href="https://github.com/mayur858">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mayur858&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="175" alt="Mayur's GitHub Stats" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/mayur858">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mayur858&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="175" alt="Mayur's Top Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <a href="https://github.com/mayur858">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayur858&theme=dracula&hide_border=false" alt="Mayur's Streak Stats" width="80%" />
   </a>
+</div>
+
+---
+
+### 🤝 Let's Connect
+
+<div align="center">
   <a href="https://www.linkedin.com/in/mayur-kumar-garchar/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="36" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:kmayur819@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="36" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/mayur858" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="36" alt="GitHub" />
   </a>
 </div>
-
-###
