@@ -102,15 +102,3 @@ I am a **Full-Stack & Mobile Engineer** focused on building clean, scalable, and
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayur858&hide_border=true&border_radius=14&background=1A1B27&ring=BD93F9&fire=FF79C6&currStreakLabel=BD93F9&currStreakNum=F8F8F2&sideNums=C9D1D9&sideLabels=C9D1D9&dates=6272A4" alt="Mayur's Streak Stats" width="80%" />
   </a>
 </div>
-
----
-
-### 🤝 Let's Connect
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/mayur-kumar-garchar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="36" alt="LinkedIn" /></a>
-  &nbsp;&nbsp;
-  <a href="mailto:kmayur819@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="36" alt="Gmail" /></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/mayur858" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="36" alt="GitHub" /></a>
-</div>
