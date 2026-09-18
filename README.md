@@ -87,12 +87,12 @@ I am a **Full-Stack & Mobile Engineer** focused on building clean, scalable, and
     <tr>
       <td>
         <a href="https://github.com/mayur858">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mayur858&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=14&bg_color=1A1B27&title_color=BD93F9&icon_color=FF79C6&text_color=C9D1D9" height="175" alt="Mayur's GitHub Stats" />
+          <img src="https://github-stats-extended.vercel.app/api?username=mayur858&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=14&bg_color=1A1B27&title_color=BD93F9&icon_color=FF79C6&text_color=C9D1D9" height="175" alt="Mayur's GitHub Stats" />
         </a>
       </td>
       <td>
         <a href="https://github.com/mayur858">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mayur858&layout=compact&langs_count=6&hide_border=true&border_radius=14&bg_color=1A1B27&title_color=BD93F9&icon_color=FF79C6&text_color=C9D1D9" height="175" alt="Mayur's Top Languages" />
+          <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mayur858&layout=compact&langs_count=6&hide_border=true&border_radius=14&bg_color=1A1B27&title_color=BD93F9&icon_color=FF79C6&text_color=C9D1D9" height="175" alt="Mayur's Top Languages" />
         </a>
       </td>
     </tr>
